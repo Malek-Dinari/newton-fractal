@@ -19,4 +19,4 @@ This project generates Newton Fractals using Newton's method to find the roots o
 
 Here's an example fractal plot generated using `max_iter=15` for the complex quintic polynomial:
 
-![Newton Fractal](assets/1.png)
+![Newton Fractal](artifacts/1.png)
