@@ -13,3 +13,10 @@ This project generates Newton Fractals using Newton's method to find the roots o
 1. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
+
+
+## Example Output
+
+Here's an example fractal plot generated using `max_iter=15` for the complex quintic polynomial:
+
+![Newton Fractal](assets/1.png)
